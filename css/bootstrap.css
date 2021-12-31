@@ -1427,7 +1427,13 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    margin-top: -3px;
+    
+}
+.imgdim{
+    width: 100%;
+    margin-top: -3px;
 }
 
 .carousel-inner>.item>a>img,
@@ -2085,7 +2091,8 @@ pre code {
 }
 
 .col-xs-12 {
-    width: 100%
+    width: 100%;
+
 }
 
 .col-xs-11 {
