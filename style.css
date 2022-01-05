@@ -706,22 +706,11 @@ p {
     font-weight: 700;
 }
 
-.social1 {
-    max-width: 10px;
-   
+.social {
+    max-width: 400px;
+    margin: auto auto auto auto;
 }
-.social2 {
-    max-width: 10px;
-   
-}
-.social3 {
-    max-width: 10px;
-    
-}
-.social4 {
-    max-width: 10px;
-    
-}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
