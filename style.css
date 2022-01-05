@@ -367,6 +367,7 @@ a:hover {
     font-weight: bold;
 }
 
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -683,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
